@@ -1,0 +1,58 @@
+{
+  "data": {
+    "users": {
+      "6285815975368@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": "Infinity"
+      }
+    },
+    "chats": {
+      "6285815975368@s.whatsapp.net": {
+        "mute": false,
+        "antilink": false
+      }
+    },
+    "database": {},
+    "game": {
+      "tebaklagu": [],
+      "family100": [],
+      "math": [],
+      "tebakgambar": [],
+      "tebakkata": [],
+      "lontong": [],
+      "lontong_desk": [],
+      "kalimat": [],
+      "lirik": [],
+      "tebakan": []
+    },
+    "settings": {
+      "6282119820744@s.whatsapp.net": {
+        "status": 0,
+        "autobio": false,
+        "templateImage": true,
+        "templateVideo": false,
+        "templateGif": false,
+        "templateMsg": false
+      }
+    },
+    "others": {
+      "vote": []
+    },
+    "sticker": {}
+  },
+  "adapter": {
+    "adapter": {
+      "filename": "src/database.json",
+      "writer": {
+        "locked": false,
+        "prev": null,
+        "next": null,
+        "nextPromise": null,
+        "nextData": null,
+        "filename": "src/database.json",
+        "tempFilename": "src/.database.json.tmp"
+      }
+    }
+  }
+}
