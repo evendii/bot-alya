@@ -1,4 +1,4 @@
-# Zetspublic
+# bot alya
 Script WhatsApp Bot Multi Device, Ori Hisoka-Morou
 
 <p align="center">
